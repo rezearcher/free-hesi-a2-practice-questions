@@ -4,6 +4,8 @@
 
 Want the full set? **[Take the full 68-question HESI A2 practice exam at HESIReady](https://hesiready.pages.dev)** — timed, auto-scored, with a rationale on every question. There is also a [free online practice test](https://hesiready.pages.dev/free-hesi-a2-practice-test-2026) you can take in the browser.
 
+Prefer flashcards? Download the **[free HESI A2 Anki deck](https://github.com/rezearcher/free-hesi-a2-practice-questions/releases/download/hesi-anki-deck-v1/HESIReady-HESI-A2-Free-Deck.apkg)** (`.apkg`, 14 cards with answer keys and rationales) and review on desktop, web, or mobile.
+
 Taking the **ATI TEAS** instead (or as well)? We also publish a free [TEAS practice question dataset](https://github.com/rezearcher/free-teas-practice-questions) — many nursing programs accept either exam.
 
 ## Use the data
